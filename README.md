@@ -40,5 +40,7 @@ For 50 years, WWF has been protecting the future of nature. The worlds leading
 - <a href="#语法">查看语法</a>  
 - 图片链接  
 -- <p>无边框的图片链接:<a href="http://www.runoob.com/html/html-tutorial.html"><img border="0" src="smiley.gif" alt="HTML 教程" width="20" height="16"></a></p>  
+- 电子邮件链接  
+-- <p>这是一个电子邮件链接：<a href="mailto:someone@example.com?Subject=Hello%20again" target="_top">发送邮件</a></p> <p><b>注意:</b> 单词之间空格使用 %20 代替，以确保浏览器可以正常显示文本。</p>
 ### 类似标准格式？  
 - <a href="https://www.runoob.com/wp-content/uploads/2013/06/02A7DD95-22B4-4FB9-B994-DDB5393F7F03.jpg"><img border="0" src="runoob.gif" alt="HTML 教程" width="5" height="5"></a> 
