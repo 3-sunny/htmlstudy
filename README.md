@@ -34,11 +34,11 @@
 -- <blockquote cite="http://www.worldwildlife.org/who/index.html">
 For 50 years, WWF has been protecting the future of nature. The worlds leading conservation organization, WWF works in 100 countries and is supported by 1.2 million members in the United States and close to 5 million globally.</blockquote> <br/><q>Build a future where people live in harmony with nature.</q>  
 - 链接  
---<a href="https://www.runoob.com/" target="_blank">访问菜鸟教程!</a><br/><p>如果你将 target 属性设置为 &quot;_blank&quot;, 链接将在新窗口打开。</p> <br/><a href="https://www.runoob.com/" target="_blank">访问菜鸟教程!</a>  
+-- <a href="https://www.runoob.com/" target="_blank">访问菜鸟教程!</a><br/><p>如果你将 target 属性设置为 &quot;_blank&quot;, 链接将在新窗口打开。</p><br/><a href="https://www.runoob.com/" target="_blank">访问菜鸟教程!</a>  
+<!--后面最好加上：rel="noopener noreferrer" 意思是不会打开其他的网站，因为恶意病毒可能会修改你的浏览器空白页地址-->
 - 在当前页面跳到指定位置  
 - <a href="#语法">查看语法</a>  
 - 图片链接  
--- <p>无边框的图片链接:<a href="http://www.runoob.com/html/html-tutorial.html"><img border="0" src="smiley.gif" alt="HTML 教程" width="32" height="32"></a></p>  
+-- <p>无边框的图片链接:<a href="http://www.runoob.com/html/html-tutorial.html"><img border="0" src="smiley.gif" alt="HTML 教程" width="20" height="16"></a></p>  
 ### 类似标准格式？  
-- <a href="https://www.runoob.com/wp-content/uploads/2013/06/02A7DD95-22B4-4FB9-B994-DDB5393F7F03.jpg"><img border="0" src="runoob.gif" alt="HTML 教程" width="32" height="32"></a>  
-- 
+- <a href="https://www.runoob.com/wp-content/uploads/2013/06/02A7DD95-22B4-4FB9-B994-DDB5393F7F03.jpg"><img border="0" src="runoob.gif" alt="HTML 教程" width="5" height="5"></a> 
