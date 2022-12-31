@@ -54,7 +54,7 @@ For 50 years, WWF has been protecting the future of nature. The worlds leading
 -- font-family,font-size,color,background-color,text-align...  
 - 图像 
 -- 图像映像，创建带有可供点击区域的图像地图。其中的每个区域都是一个超级链接。  
--- <a href="https://postimg.cc/vcxkhCKC"><img border="0" src="https://i.postimg.cc/QxfD83JN/2022-12-31-232601.png" alt="map格式" width="500" height="250"></a>
+-- <a href="https://postimg.cc/vcxkhCKC"><img border="0" src="https://i.postimg.cc/QxfD83JN/2022-12-31-232601.png" alt="map格式" width="500" height="300"></a>
 ### 类似标准格式？  
 - <a href="https://postimg.cc/jWqjKJSP"><img border="0" src="https://i.postimg.cc/QM1KQQL4/I-NM-F-8-KT7-B53-A-WIF.png" alt="标准格式" width="500" height="350"></a>  
   
